@@ -1,7 +1,6 @@
 ### NAME: SURYA P <br>
 ### REG NO: 212224230280 <br> 
-### Date: 09/02/2026
+### Date: 25/07/2026
 
-## EX. No. 2 : DEVELOPING A NEURAL NETWORK CLASSIFICATION MODEL
+## EX. No. 1 : IMPLEMENTATION OF BAYESIAN NETWORKS
 
-# AAI_1_Implementation-of-Bayesian-Networks
