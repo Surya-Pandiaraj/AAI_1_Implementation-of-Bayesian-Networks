@@ -1,6 +1,6 @@
 ### NAME: SURYA P <br>
 ### REG NO: 212224230280 <br> 
-### Date: 25/07/2026
+### Date: 18/07/2026
 
 ## EX. No. 1 : IMPLEMENTATION OF BAYESIAN NETWORKS
 
